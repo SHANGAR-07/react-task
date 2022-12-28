@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +34,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* form{
+  background-color: aliceblue;
+  font-weight: bold;
+  font-size: larger;
+ font-family: 'Times New Roman', Times, serif;
+ 
+
+} */
